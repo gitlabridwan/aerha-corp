@@ -3,7 +3,7 @@
 export const CONFIG = {
   brand: 'aerha corp',
   tagline: 'BUILD · SHIP · GROW',
-  whatsapp: '', // Format internasional tanpa +, misalnya 6281234567890.
+  whatsapp: '6282295753639', // Format internasional tanpa +, misalnya 6281234567890.
   contactEndpoint: '', // Opsional: endpoint HTTPS milik Anda yang menerima POST JSON.
   storagePrefix: 'kantor-virtual',
   walkSpeed: 3.6,
