@@ -1,0 +1,12 @@
+{
+  "name": "kantor-virtual-replika",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Kantor virtual 3D berdasarkan video referensi, siap untuk GitHub Pages.",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node --test scripts/navigation.test.mjs scripts/doors.test.mjs"
+  }
+}
